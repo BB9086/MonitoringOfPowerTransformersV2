@@ -6,12 +6,13 @@
 
 ###### Login Page (Forms Authentication)
 
-![Screenshot](Images/1.png)
+![Login](https://github.com/BB9086/MonitoringOfPowerTransformersV2/assets/118169200/e0f29a2f-ed8d-4374-8c92-eb4ac8dee37b)
 
 ###### Main Page
 
-![Screenshot](Images/2.png)
+![MainPage](https://github.com/BB9086/MonitoringOfPowerTransformersV2/assets/118169200/d799d049-bf3d-44b3-a9dc-e225e862ad2c)
 
 ###### Trend Analysis
 
-![Screenshot](Images/3.png)
+![Trend](https://github.com/BB9086/MonitoringOfPowerTransformersV2/assets/118169200/eca8e4c4-b985-4304-9a02-269813bccb12)
+
