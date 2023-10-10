@@ -2,7 +2,7 @@
 
 **About this app:** The application provides continuous on-line data analysis, database recording and is responsible for safe operation of the power transformer. ADO.NET is used to provide access to SQL Server database. The user must confirm the registration via the email verification link. Exceptions are logged to the database table. 
 
-NI CompactRIO real-time embedded industrial controller was used for continuous acquisition of analog data. LabVIEW (graphical programming language) has been used to develop measurement and control application. 
+NI CompactRIO real-time embedded industrial controller is used for continuous acquisition of analog data.  Measurement and control application is developed using LabVIEW (graphical programming language). 
 
 ## Application screenshots
 
